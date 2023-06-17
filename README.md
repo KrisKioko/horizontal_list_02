@@ -1,10 +1,8 @@
 # horizontal_list_02
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a simple flutter project to display swipping of items horizontally while viewing them on a different page when tapped.
 
 A few resources to get you started if this is your first Flutter project:
 
